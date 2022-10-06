@@ -1,7 +1,5 @@
-[![Header](https://sattiyans.com/images/sattiyans.png "Header")](https://www.sattiyans.com/)
+[![Header](sattiyans.png "Header")](https://www.sattiyans.com/)
 
-Hi there ✋!  
-<img src="https://sattiyans.com/images/logo-light.svg" style="margin-bottom: -20px; margin-left: -16px;" height="50px"/>[sattiyans.](https://www.sattiyans.com/)
 
 ## a little bit about sattiyans.
 
@@ -18,7 +16,7 @@ I'm a professional Web Developer who have worked on with PHP, MySQL, Shopify, Wo
 ## i work with these
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="67.5px" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="67.5px" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="67.5px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="67.5px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="67.5px" />
