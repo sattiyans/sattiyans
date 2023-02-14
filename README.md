@@ -26,8 +26,6 @@ I'm a professional Web Developer who have worked on with PHP, MySQL, Shopify, Wo
 ## my links
 
 - [www.sattiyans.com](https://www.sattiyans.com/)
-- [bio.sattiyans.com](https://bio.sattiyans.com/)
-- [dev.sattiyans.com](https://dev.sattiyans.com)
 
 ## Contact us
 
