@@ -1,34 +1,7 @@
-[![Header](sattiyans.png "Header")](https://www.sattiyans.com/)
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://sattiyans.com)
+<h1 align="center"> Hello, I'm < Sattiyan Selvarajah / >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h3 align="center">I'm a professional Web Developer who is working with PHP, Laravel, MySQL, Shopify & WooCommerce</h3>
+ 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sattiyans&label=Profile%20views&color=sattiyans&color=blueviolet" alt="sattiyans" /> </p>
 
-
-## a little bit about sattiyans.
-
-I'm a professional Web Developer who have worked on with PHP, MySQL, Shopify, WooCommerce and ELC Online*.
-<small>*Estee Lauder Companies internal CMS system based on Drupal</small>
-
-## what i do
-
-- Web Applications
-  -  Develop landing pages and custom web applications for various usage along with required admin dashboard.
-- Ecommerce
-  -  Develop and setup customized ecommerce website for your business along with required additional configurations.
-
-## i work with these
-
-<p>
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="67.5px" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="67.5px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="67.5px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="67.5px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="67.5px" />
-</p>
-
-## my links
-
-- [www.sattiyans.com](https://www.sattiyans.com/)
-
-## Contact us
-
- [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sattiyan) 
-
-<p align="center"> © www.sattiyans.com </p>
+<p align="center">www.sattiyans.com</p>
