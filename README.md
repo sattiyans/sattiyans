@@ -1,7 +1,22 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://sattiyans.com)
-<h1 align="center"> Hello, I'm < Sattiyan Selvarajah / >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<h3 align="center">I'm a professional Web Developer who is working with PHP, Laravel, MySQL, Shopify & WooCommerce</h3>
- 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sattiyans&label=Profile%20views&color=sattiyans&color=blueviolet" alt="sattiyans" /> </p>
+### Hi there, I'm Sattiyan (@sattiyans) 👋
 
-<p align="center">www.sattiyans.com</p>
+I'm a professional Web Developer with expertise in PHP, Laravel, MySQL, Shopify, WooCommerce, and the TALL Stack (Tailwind CSS, Alpine.js, Livewire, and Laravel). I'm also passionate about using FilamentPHP to build robust and scalable web applications.
+
+#### 🌟 What I do:
+- 💻 Currently working with the TALL Stack and FilamentPHP to create cutting-edge web solutions.
+- 🚀 Building dynamic and performant web applications using Laravel and PHP.
+- 🛒 Enhancing e-commerce experiences with Shopify and WooCommerce.
+- 📊 Leveraging the power of MySQL for efficient data management.
+
+#### 📜 My Tech Toolbox:
+- 🌐 PHP, Laravel
+- 🌟 TALL Stack (Tailwind CSS, Alpine.js, Livewire, Laravel)
+- 🗄️ MySQL
+- 🛍️ Shopify & WooCommerce
+- 🚀 FilamentPHP
+
+#### 🌐 Connect with Me:
+- 📧 Email: hey@sattiyans.com
+- 💼 LinkedIn: [/in/sattiyans](https://www.linkedin.com/in/sattiyans)
+- 🐦 Twitter: [@sattiyans](https://twitter.com/sattiyans)
+
