@@ -1,22 +1,28 @@
 ### Hi there, I'm Sattiyan (@sattiyans) 👋
 
-I'm a professional Web Developer with expertise in PHP, Laravel, MySQL, Shopify, WooCommerce, and the TALL Stack (Tailwind CSS, Alpine.js, Livewire, and Laravel). I'm also passionate about using FilamentPHP to build robust and scalable web applications.
+I'm a seasoned Web Developer with a diverse skill set, ranging from PHP, Laravel, MySQL to Shopify (Liquid) and WooCommerce. Previously, I delved into the realm of Game Development with Unity, providing me with a unique perspective in crafting engaging digital experiences. Currently, I'm venturing into Vue.js to further enrich my front-end development capabilities.
 
 #### 🌟 What I do:
-- 💻 Currently working with the TALL Stack and FilamentPHP to create cutting-edge web solutions.
-- 🚀 Building dynamic and performant web applications using Laravel and PHP.
-- 🛒 Enhancing e-commerce experiences with Shopify and WooCommerce.
-- 📊 Leveraging the power of MySQL for efficient data management.
+- 💻 Currently immersed in Web Development, harnessing PHP, Laravel, Livewire, and Filament PHP.
+- 🛒 Dedicated to refining e-commerce experiences through Shopify and WooCommerce.
+- 📊 Proficient in MySQL for seamless data management.
+- 🌱 Actively expanding my toolkit with Vue.js for dynamic front-end development.
 
 #### 📜 My Tech Toolbox:
 - 🌐 PHP, Laravel
-- 🌟 TALL Stack (Tailwind CSS, Alpine.js, Livewire, Laravel)
-- 🗄️ MySQL
-- 🛍️ Shopify & WooCommerce
 - 🚀 FilamentPHP
+- 🗄️ MySQL
+- 🛍️ Shopify (Liquid) & WooCommerce
+- 🌱 Currently learning Vue.js
 
 #### 🌐 Connect with Me:
 - 📧 Email: hey@sattiyans.com
 - 💼 LinkedIn: [/in/sattiyans](https://www.linkedin.com/in/sattiyans)
 - 🐦 Twitter: [@sattiyans](https://twitter.com/sattiyans)
+- 🔗 Company: [dotkod](https://dotkod.com/) - Crafting digital solutions with excellence.
 
+### 🎵 Currently Listening:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fd2iw67xqakpsr2a4oqtvmq4ra&cover_image=false&theme=novatorem&show_offline=false&background_color=0e1117&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+![Visitor Count](https://profile-counter.glitch.me/sattiyans/count.svg)
