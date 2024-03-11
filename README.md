@@ -23,6 +23,6 @@ I'm a seasoned Web Developer with a diverse skill set, ranging from PHP, Laravel
 
 ### 🎵 Currently Listening:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fd2iw67xqakpsr2a4oqtvmq4ra&cover_image=false&theme=novatorem&show_offline=false&background_color=0e1117&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fd2iw67xqakpsr2a4oqtvmq4ra&cover_image=false&theme=novatorem&show_offline=false&background_color=0e1117&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31fd2iw67xqakpsr2a4oqtvmq4ra?si=92e296c1bebd4307)
 
 ![Visitor Count](https://profile-counter.glitch.me/sattiyans/count.svg)
