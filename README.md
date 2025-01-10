@@ -1,7 +1,7 @@
 ### Hi there, I'm Sattiyan (@sattiyans) 👋
 
-![light_mode](https://github.com/user-attachments/assets/968b5903-023e-4a12-bd08-6bf76733e45d)
-![dark_mode](https://github.com/user-attachments/assets/868b0be8-5593-4258-9d2e-0609818250da)
+![light_mode](https://github.com/user-attachments/assets/968b5903-023e-4a12-bd08-6bf76733e45d#gh-dark-mode-only)
+![dark_mode](https://github.com/user-attachments/assets/868b0be8-5593-4258-9d2e-0609818250da#gh-light-mode-only)
 
 I'm a seasoned Web Developer with a diverse skill set, ranging from PHP, Laravel, MySQL to Shopify (Liquid) and WooCommerce. Previously, I delved into the realm of Game Development with Unity, providing me with a unique perspective in crafting engaging digital experiences. Currently, I'm venturing into Vue.js to further enrich my front-end development capabilities.
 
